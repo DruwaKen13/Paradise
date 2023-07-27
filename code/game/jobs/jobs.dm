@@ -9,7 +9,8 @@ GLOBAL_LIST_INIT(command_positions, list(
 	"Chief Engineer",
 	"Research Director",
 	"Chief Medical Officer",
-	"Nanotrasen Representative"
+	"Nanotrasen Representative",
+	"Adjutant"
 ))
 
 
@@ -64,6 +65,7 @@ GLOBAL_LIST_INIT(technically_security_positions,(
 //BS12 EDIT
 GLOBAL_LIST_INIT(support_positions, list(
 	"Head of Personnel",
+	"Adjutant",
 	"Bartender",
 	"Botanist",
 	"Chef",

@@ -21,7 +21,7 @@
 #define JOB_SYNDICATE			(1<<11)
 #define JOB_ENGINEER_TRAINEE	(1<<12)
 #define JOB_CADET		(1<<13)
-
+#define JOB_ADJUTANT     (0<<4)
 #define JOBCAT_MEDSCI			(1<<1)
 
 #define JOB_RD				(1<<0)
